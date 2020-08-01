@@ -1,57 +1,57 @@
-,Brewery,Street_Address,Zipcode,Austin_Area
-0,4th Tap Brewing Cooperative,10615 Metric Boulevard, 78758,North
-1,Adelbert’s Brewery,2314 Rutland Drive, 78758,North
-2,Austin Beerworks,3001 Industrial Terrace, 78758,North
-3,Black Star Co-Op,7020 Easy Wind Drive, 78752,North
-4,Brewtorium,6015 Dillard Circle, 78752,North
-5,Celis Brewing,10001 Metric Boulevard, 78758,North
-6,Circle Brewing,2340 W Braker Lane, 78758,North
-7,Draught House,4112 Medical Parkway, 78756,North
-8,Hopsquad Brewing,2307 Kramer Lane, 78758,North
-9,Flying Man Brewing,2400 Patterson Industrial Drive, 78660,North
-10,Oskar Blues,10420 Metric Boulevard, 78758,North
-11,Pinthouse Pizza,4729 Burnet Road, 78756,North
-12,Bluebonnet Beer Company,1700 Bryant Dr. #107, 78664,Northern Suburbs
-13,Bull Creek Brewing,7100 FM 3405, 78642,Northern Suburbs
-14,Compadre Brewing,16920 Joe Barbee Drive Bldg 1, 78664,Northern Suburbs
-15,Flix Brewhouse,2200 S Interstate 35 B1, 78681,Northern Suburbs
+,Brewery,Street_Address,Zip_Code,Austin_Area
+0,4th Tap Brewing Cooperative,10615 Metric Boulevard,78758,North
+1,Adelbert’s Brewery,2314 Rutland Drive,78758,North
+2,Austin Beerworks,3001 Industrial Terrace,78758,North
+3,Black Star Co-Op,7020 Easy Wind Drive,78752,North
+4,Brewtorium,6015 Dillard Circle,78752,North
+5,Celis Brewing,10001 Metric Boulevard,78758,North
+6,Circle Brewing,2340 W Braker Lane,78758,North
+7,Draught House,4112 Medical Parkway,78756,North
+8,Hopsquad Brewing,2307 Kramer Lane,78758,North
+9,Flying Man Brewing,2400 Patterson Industrial Drive,78660,North
+10,Oskar Blues,10420 Metric Boulevard,78758,North
+11,Pinthouse Pizza,4729 Burnet Road,78756,North
+12,Bluebonnet Beer Company,1700 Bryant Dr. #107,78664,Northern Suburbs
+13,Bull Creek Brewing,7100 FM 3405,78642,Northern Suburbs
+14,Compadre Brewing,16920 Joe Barbee Drive Bldg 1,78664,Northern Suburbs
+15,Flix Brewhouse,2200 S Interstate 35 B1,78681,Northern Suburbs
 16,Humble Pint Brewing Co.,11880 Hero Way W Suite 208,78641,Northern Suburbs
-17,Pinthouse Pizza,2800 Hoppe Trail, 78681,Northern Suburbs
-18,Red Horn Coffee House & Brewing Co.,13010 W. Parmer Ln. #800, 78613,Northern Suburbs
-19,Rentsch Brewery,2500 NE Inner Loop, 78626,Northern Suburbs
-20,San Gabriel River Brewery,500 Chaparral Drive, 78641,Northern Suburbs
-21,Whitestone Brewery,601 E. Whitestone Blvd. #500, 78613,Northern Suburbs
+17,Pinthouse Pizza,2800 Hoppe Trail,78681,Northern Suburbs
+18,Red Horn Coffee House & Brewing Co.,13010 W. Parmer Ln. #800,78613,Northern Suburbs
+19,Rentsch Brewery,2500 NE Inner Loop,78626,Northern Suburbs
+20,San Gabriel River Brewery,500 Chaparral Drive,78641,Northern Suburbs
+21,Whitestone Brewery,601 E. Whitestone Blvd. #500,78613,Northern Suburbs
 22,Central District Brewing,417 Red River Street,78701,Central/Downtown
-23,Holdout Brewin,1208 W 4th Street, 78703,Central/Downtown
-24,(512) Brewing,407 Radam Lane, 78745,South
-25,Austin Beer Garden & Brewery (ABGB),1305 W Oltorf Street, 78704,South
-26,Independence Brewing,3913 Todd Lane #607, 78744,South
-27,Nomadic Beerworks,3804 Woodbury Drive Suite A, 78704,South
-28,Orf Brewing,4700-F Burle­son Road, 78744,South
-29,Pinthouse Pizza,4236 S Lamar Boulevard, 78704,South
-30,St Elmo Brewing,440 E St Elmo Road, 78745,South
-31,Thirsty Planet Brewing,8201 S Congress Avenue, 78745,South
-32,Two Wheel Brewing,535 S. Loop 4, 78610,South
+23,Holdout Brewin,1208 W 4th Street,78703,Central/Downtown
+24,(512) Brewing,407 Radam Lane,78745,South
+25,Austin Beer Garden & Brewery (ABGB),1305 W Oltorf Street,78704,South
+26,Independence Brewing,3913 Todd Lane #607,78744,South
+27,Nomadic Beerworks,3804 Woodbury Drive Suite A,78704,South
+28,Orf Brewing,4700-F Burle­son Road,78744,South
+29,Pinthouse Pizza,4236 S Lamar Boulevard,78704,South
+30,St Elmo Brewing,440 E St Elmo Road,78745,South
+31,Thirsty Planet Brewing,8201 S Congress Avenue,78745,South
+32,Two Wheel Brewing,535 S. Loop 4,78610,South
 33,Batch Brewhouse,3220 Manor Road,78723,East
-34,Blue Owl Brewing,2400 E Cesar Chavez Street, 78702,East
-35,Central Machine Works Brewery and Beer Hall,4824 E Cesar Chavez Street, 78702,East
-36,Friends & Allies Brewing,979 Springdale Road, 78702,East
-37,Hi Sign Brewing,1201 Bastrop Highway, 78742,East
-38,Hops and Grain,507 Calles Street, 78702,East
-39,Lazarus Brewing,1902 E 6th Street, 78702,East
-40,Live Oak Brewing,1615 Crozier Lane, 78617,East
-41,Oddwood Ales,3108 Manor Road, 78723,East
-42,Southern Heights Brewing,6014 Techni Center Drive, 78721,East
-43,Zilker Brewing,1701 E 6th Street, 78702,East
-44,12 Fox Beer Company,4700 W Fitzhugh Road, 78620,West
-45,Acopon Brewing,211 W. Mercer Street, 78620,West
-46,Beerburg Brewing,13476 Fitzhugh Rd, 78736,West
-47,Family Business Beer,19510 Hamilton Pool Road, 78620,West
-48,Infamous Brewing Company,4602 Weletka Drive, 78734,West
-49,Jester King Brewery,13187 Fitzhugh Road, 78736,West
-50,Last Stand Brewing,12345 Pauls Valley Road, 78737,West
-51,Oasis Texas Brewing,6550 Comanche Trail, 78732,West
-52,One Shot Distillery & Brewery,31610 Ranch Road 12, 78620,West
-53,Suds Monkey Brewing ,1032 Canyon Bend Drive, 78620,West
-54,Twisted X Brewing,23455 Ranch to Market Road 150, 78620,West
-55,Vista Brewing,13551 Ranch to Market Road 150, 78619,West
+34,Blue Owl Brewing,2400 E Cesar Chavez Street,78702,East
+35,Central Machine Works Brewery and Beer Hall,4824 E Cesar Chavez Street,78702,East
+36,Friends & Allies Brewing,979 Springdale Road,78702,East
+37,Hi Sign Brewing,1201 Bastrop Highway,78742,East
+38,Hops and Grain,507 Calles Street,78702,East
+39,Lazarus Brewing,1902 E 6th Street,78702,East
+40,Live Oak Brewing,1615 Crozier Lane,78617,East
+41,Oddwood Ales,3108 Manor Road,78723,East
+42,Southern Heights Brewing,6014 Techni Center Drive,78721,East
+43,Zilker Brewing,1701 E 6th Street,78702,East
+44,12 Fox Beer Company,4700 W Fitzhugh Road,78620,West
+45,Acopon Brewing,211 W. Mercer Street,78620,West
+46,Beerburg Brewing,13476 Fitzhugh Rd,78736,West
+47,Family Business Beer,19510 Hamilton Pool Road,78620,West
+48,Infamous Brewing Company,4602 Weletka Drive,78734,West
+49,Jester King Brewery,13187 Fitzhugh Road,78736,West
+50,Last Stand Brewing,12345 Pauls Valley Road,78737,West
+51,Oasis Texas Brewing,6550 Comanche Trail,78732,West
+52,One Shot Distillery & Brewery,31610 Ranch Road 12,78620,West
+53,Suds Monkey Brewing ,1032 Canyon Bend Drive,78620,West
+54,Twisted X Brewing,23455 Ranch to Market Road 150,78620,West
+55,Vista Brewing,13551 Ranch to Market Road 150,78619,West
