@@ -1,0 +1,276 @@
+brewery_id,name,type,abv,ibu,rating,rating_count
+0,Barrel Aged Lawgiver,Stout - Russian Imperial,10.0,,4.31,36
+0,Barrel Aged Supernaut (Garrison Brothers),Stout - Imperial / Double,13.0,,4.29,17
+0,Fog of War,IPA - New England,6.8,40.0,4.18,11
+0,Supernaut Cookies & Cream (Barrel Aged Garrison Bros),Stout - Imperial / Double,13.0,,4.1,60
+0,Cask Collective Blood Orange,IPA - American,7.0,,4.1,10
+1,Guava Sour,Sour - Other,,,4.15,137
+1,Berrial Shroud,Sour - Fruited,6.5,,4.15,104
+1,Forgotten Ale,Sour - Flanders Oud Bruin,9.0,,4.13,168
+1,Sundowner (Biere Brut) (2018 -),Bière de Champagne / Bière Brut,12.1,,4.11,16
+1,Milky Madness,IPA - Milkshake,6.0,65.0,4.1,37
+2,Barrel Aged Sputnik,Stout - Oatmeal,12.0,,4.42,150
+2,Please Scream Inside Your Heart,Stout - Imperial / Double,10.0,,4.35,49
+2,Midnight Swordfight,Stout - Imperial / Double,12.0,20.0,4.29,735
+2,Black Is Beautiful,Stout - Imperial / Double,8.0,,4.25,169
+2,Sazé,Farmhouse Ale - Saison,7.4,,4.23,60
+3,Chocolate Coconut Moebius,Stout - Russian Imperial,11.5,60.0,4.5,13
+3,Black Is Beautiful,Stout - Oatmeal,9.0,50.0,4.13,15
+3,Can't Quit You V,IPA - Sour,9.4,,4.12,82
+3,Moebius,Stout - Russian Imperial,11.5,60.0,4.04,610
+3,Can't Quit You,Sour - Other,8.9,92.0,4.03,358
+4,Black Is Beautiful,Stout - Imperial / Double,10.1,60.0,4.18,85
+4,Nightorday,IPA - New England,7.5,34.0,3.96,51
+4,Space Laser,IPA - American,8.5,34.0,3.91,230
+4,Iron Belly,Porter - American,5.9,29.0,3.89,440
+4,Better Haze & Gardens,IPA - New England,6.4,37.0,3.88,154
+5,Toasted Oak Whiskey Stout,Stout - Oatmeal,7.5,,4.21,12
+5,Anniversary IPA,IPA - American,7.0,,4.14,13
+5,Violet Crown Quad,Belgian Quadrupel,10.0,,4.04,108
+5,Molten Mango & Peach IPA,IPA - New England,7.0,50.0,3.98,11
+5,Celis Waller Kriek,Lambic - Kriek,5.0,,3.97,455
+6,Pancake Pig,Porter - American,9.0,,3.99,18
+6,Swino,Porter - Imperial / Double,,,3.96,13
+6,Whiskey Pig BBA Imperial Porter,Porter - Imperial / Double,9.0,51.0,3.96,361
+6,Mojito Tranquilo,Sour - Gose,,,3.95,10
+6,Doppel Blur,Hefeweizen,7.7,18.0,3.84,1218
+7,Dank the Tank,IPA - American,,,4.06,43
+7,Triple Double,IPA - Imperial / Double,8.6,,4.06,59
+7,Saison Yakima,Farmhouse Ale - Saison,5.7,48.0,4.02,12
+7,Dirt Nap Bourbon Barrel Aged,Stout - Imperial / Double,7.0,,4.01,67
+7,Chuckle Berry,Sour - Fruited,5.3,,4.01,21
+8,Lord Zanate IPA,IPA - American,6.9,,3.61,342
+8,Comtesse De Duval Saison,Farmhouse Ale - Saison,4.6,28.0,3.44,235
+8,Sculptor Formosa,Porter - Coffee,6.5,,3.78,181
+8,Dutchess of Oltorf,Roggenbier,4.3,,3.44,189
+8,Professor Pleasant,Pale Ale - American,5.4,,3.44,171
+9,Nosy Neighbor Hater Old Ale,Old Ale,,,4.07,17
+9,Bourbon Barrel Aged Black Box,Stout - Russian Imperial,8.5,38.0,3.98,132
+9,Rhapsody,Mead - Other,,,3.92,12
+9,Phantom Works Blueberry Wheat,Wheat Beer - Witbier,,,3.91,11
+9,Swept Wing Stout (bourbon Barrel Aged),Stout - Other,,,3.89,21
+10,Ten Fidy (Smooth Ambler Bourbon Barrel Aged),Stout - American,,,4.56,17
+10,Ten Fidy (Cruzan Rum Barrel Aged),Stout - Imperial / Double,10.2,,4.48,93
+10,"Ten FIDY With Vanilla Beans, Coffee And Cocoa Nibs",Stout - Imperial / Double,10.5,98.0,4.42,16
+10,Ten FIDY (Bulleit Bourbon Barrel-Aged),Stout - Imperial / Double,11.0,,4.42,1493
+10,Ten FIDY (Maker's Mark Barrel-Aged),Stout - Imperial / Double,10.8,20.0,4.42,771
+11,Jaguar Shark Brewers Reserve 2018,Stout - Imperial / Double,10.5,,4.48,73
+11,Emilio,IPA - Triple,10.5,,4.47,513
+11,Cactus Blaster,IPA - Triple New England,10.5,,4.39,196
+11,Make Your Mark,Stout - Imperial / Double,10.8,,4.38,21
+11,Elastic Slacks,Stout - Imperial / Double,12.5,,4.37,32
+12,Immortal Ten - Hannah,Barleywine - American,13.0,88.0,4.17,23
+12,Immortal Ten - Winchester,IPA - Imperial / Double,10.0,133.0,4.12,45
+12,Immortal Ten - Murray,Bock - Weizenbock,10.0,20.0,4.12,26
+12,Black Is Beautiful,Stout - Imperial / Double,10.0,56.0,4.03,29
+12,Robust Porter Aged in Banner Whiskey Barrels,Porter - American,6.5,40.0,4.02,13
+13,Boudica,Mead - Braggot,15.0,,3.93,15
+13,Fuzzy Balls,Stout - Imperial / Double,,,3.84,67
+13,Mosaic,Pale Ale - American,,,3.82,15
+13,Tropic Thunder,Farmhouse Ale - Saison,,,3.8,15
+13,Iron Balls,Stout - Imperial / Double,9.0,45.0,3.78,807
+14,KuchenBrau,Stout - Pastry,6.5,30.0,3.79,12
+14,OktoberPfest,Märzen,5.5,30.0,3.77,46
+14,Dia de los Compadres Muertos,Lager - Amber,5.0,15.0,3.75,110
+14,Folsom Prison Blueberry Porter,Porter - Other,6.0,25.0,3.66,143
+14,El Cucuy - Pumpkin Spice Halloween Edition,Dark Ale,6.0,28.0,3.64,33
+15,Bourbon Barrel Aged Omnipresent,Barleywine - English,9.8,,4.34,17
+15,Barrel Aged Bovine Buzz Stout (w/ Vanilla Beans and Coffee),Stout - Milk / Sweet,5.2,35.0,4.28,66
+15,The Kraken,Belgian Quadrupel,10.5,,4.23,20
+15,Harlequin Haze,IPA - New England,7.8,30.0,4.18,26
+15,Geuse's Juice Mango Hazy IPA,IPA - American,6.2,,4.14,11
+16,Whiplash,IPA - New England,7.5,53.0,4.07,49
+16,"Stay Hazy, Leander",IPA - New England,6.8,60.0,4.04,42
+16,Black Is Beautiful,Stout - Imperial / Double Coffee,10.0,48.0,4.03,54
+16,Beer Juice,IPA - American,6.4,44.0,3.99,20
+16,Grain Beret,Belgian Tripel,8.7,24.0,3.95,22
+17,Jaguar Shark Brewers Reserve 2018,Stout - Imperial / Double,10.5,,4.48,73
+17,Emilio,IPA - Triple,10.5,,4.47,513
+17,Cactus Blaster,IPA - Triple New England,10.5,,4.39,196
+17,Make Your Mark,Stout - Imperial / Double,10.8,,4.38,21
+17,Elastic Slacks,Stout - Imperial / Double,12.5,,4.37,32
+18,Port Whiskey Barrel Aged Suburban Ninja W/ Vanilla (2019),Stout - Imperial / Double,14.84,50.0,4.36,114
+18,The S.O.N. Double Stout W/ Cold Brew Coffee,Stout - Imperial / Double,7.0,30.0,4.35,32
+18,The S.O.N. Double Stout W/ Brett And Plums,Stout - Other,8.5,50.0,4.32,45
+18,Tequila Barrel Aged Mexican Chocolate Suburban Ninja,Stout - Imperial / Double Milk,12.0,50.0,4.32,196
+18,Bourbon Barrel Aged Suburban Ninja,Stout - Imperial / Double,12.0,50.0,4.3,206
+19,Apple Strudel Oktoberfest,Märzen,5.8,,4.39,21
+19,Strawberry Blonde,Blonde Ale,5.2,15.0,4.33,13
+19,LaLa's Lemonade,Mead - Other,,,4.21,12
+19,Nitro IPA,IPA - American,6.5,65.0,4.17,12
+19,Bourbon Barrel Aged Prussian Imperial Stout,Stout - Russian Imperial,12.0,20.0,4.13,480
+20,Wee Heavy,Scotch Ale / Wee Heavy,8.0,30.0,3.74,68
+20,Irish Coffee Porter,Porter - English,9.48,39.0,3.73,112
+20,Weiss,Wheat Beer - Witbier,3.53,11.0,3.59,24
+20,Christmas Spiced Ale,Winter Ale,7.98,22.0,3.55,15
+20,Honey Porter,Porter - Other,7.92,39.0,3.53,165
+21,Belgian Quad Aged In Rum And Bourbon Barrels - Quadrivium Series (3rd of 4),Belgian Quadrupel,10.0,23.0,4.25,63
+21,Cabernet Sauvignon Barrel-aged Cedrela Hefeweizen,Hefeweizen,6.0,8.0,4.19,12
+21,Slappin' Da Bass W/ Ancho Chile and Toasted Coconut,Stout - Russian Imperial,10.5,70.0,4.18,25
+21,Belgian Quad aged In Treaty Oak Rum barrels - Quadrivium Series (2nd of 4),Belgian Quadrupel,10.0,23.0,4.17,65
+21,Belgian Quad aged in Madeira Barrels - Quadrivium Series (4th of 4),Belgian Quadrupel,10.0,23.0,4.16,37
+22,Gumdrop Buttons,Stout - American,5.9,,4.05,24
+22,Hooked On A Feeling,IPA - Imperial / Double New England,8.1,,4.03,23
+22,Gauchito Gil,Sour - Fruited,5.5,,3.97,44
+22,"Baby, Don’t Hurt Me",Sour - Fruited,5.9,,3.97,45
+22,Coco Rico,Stout - Other,5.9,,3.95,40
+23,No'Quango,IPA - Milkshake,6.1,28.0,4.22,25
+23,Liquid Television,Pale Ale - New England,6.1,46.0,4.1,258
+23,P.R.E.A.M,IPA - Milkshake,6.1,,4.04,20
+23,Juicy Boots,IPA - American,7.1,53.0,4.02,73
+23,Black Is Beautiful,Stout - Imperial / Double,10.0,,3.98,88
+24,512 Rum Barrel Aged Russian Imperial Stout,Stout - Russian Imperial,10.4,,4.27,26
+24,WBADPP From A Whiskey Barrel,Porter - American,9.5,,4.22,52
+24,Imperial Stout With Dark Cherries,Stout - Imperial / Double,,,4.21,12
+24,(512) Whiskey Barrel Aged Double Pecan Porter,Porter - Imperial / Double,9.5,30.0,4.2,8388
+24,IPA Dry Hopped With Calyspo,IPA - American,6.5,,4.19,16
+25,Jason Dateman,Sour - Fruited,9.0,,4.12,37
+25,I WUZ Gonna Go To the Gym...,IPA - American,6.2,50.0,4.04,17
+25,Capt. Ivan Drago,Stout - Russian Imperial,10.0,45.0,4.02,613
+25,Y.S.B. #8 Violet Beauregarde,Sour - Other,3.8,,3.94,253
+25,Cherry Cherry Boom Boom,Sour - Flanders Red Ale,9.5,,3.93,53
+26,Redbud Paloma,Sour - Berliner Weisse,4.9,12.0,4.3,11
+26,Convict Hill BBA Stout (Garrison Bros.) 2019,Stout - Imperial / Double Oatmeal,10.5,25.0,4.11,22
+26,Busted For Possession,Stout - Oatmeal,,,4.04,12
+26,Highboy Southern Hemi,IPA - Imperial / Double,9.0,100.0,4.0,22
+26,Highboy Hawaiian,IPA - Imperial / Double,9.0,100.0,3.89,1169
+27,Three Rotations,Stout - Imperial / Double,9.1,,4.1,142
+27,Surface Interval,IPA - Milkshake,7.5,,4.09,66
+27,All Together,IPA - American,7.5,25.0,4.06,34
+27,7 Deadly Stills,Scottish Ale,8.2,,4.04,81
+27,Black Is Beauitful,Stout - Imperial / Double,10.0,,4.01,39
+28,Orfo De Mayo - Mole Poblano Saison,Farmhouse Ale - Saison,,,4.12,13
+28,Rhum Porter,Porter - American,6.8,,3.85,84
+28,Amber Roast,Honey Beer,6.2,32.0,3.85,26
+28,Maple Aged Orftoberfest,Märzen,5.2,39.0,3.72,34
+28,Loquatious,Bock - Hell / Maibock / Lentebock,5.6,,3.65,35
+29,Jaguar Shark Brewers Reserve 2018,Stout - Imperial / Double,10.5,,4.48,73
+29,Emilio,IPA - Triple,10.5,,4.47,513
+29,Cactus Blaster,IPA - Triple New England,10.5,,4.39,196
+29,Make Your Mark,Stout - Imperial / Double,10.8,,4.38,21
+29,Elastic Slacks,Stout - Imperial / Double,12.5,,4.37,32
+30,Woke,Stout - Imperial / Double,12.0,,4.16,250
+30,Baby Ruth,Barleywine - English,13.5,,4.14,126
+30,Bravado,Stout - Imperial / Double,13.0,,4.14,37
+30,Collins,Sour - Other,,,4.12,84
+30,Neo,Stout - Imperial / Double,,,4.11,110
+31,Belgian Dark Strong Ale,Belgian Strong Dark Ale,9.8,,4.17,12
+31,Stout Like A Tiger,Stout - American,,,4.02,15
+31,Homebrewer's Guide To the Galaxy,IPA - American,6.4,,4.01,41
+31,Wild Season,American Wild Ale,7.66,25.0,3.99,26
+31,Double Buckethead,IPA - Imperial / Double,11.9,100.0,3.95,794
+32,Azios,American Wild Ale,,,4.49,12
+32,Calcifer,IPA - New England,6.66,,4.33,134
+32,Symbiotic IPA,IPA - Imperial / Double New England,8.5,,4.3,71
+32,Stardust,IPA - New England,7.5,,4.27,80
+32,"Double Low Key Loki - Galaxy, Topaz and Citra",IPA - Imperial / Double New England,8.2,,4.27,92
+33,Bossjito,Sour - Other,3.8,7.0,4.35,10
+33,Tropicali Tea,Sour - Other,3.8,,4.32,11
+33,RedRum,Sour - Other,3.4,7.0,4.2,14
+33,Warhead Sour - Black Cherry & Blue Raspberry,Sour - Berliner Weisse,3.4,,4.18,22
+33,Tiny Barrel Series: Peary & David,American Wild Ale,3.8,7.0,4.13,12
+34,Mosaic IPA,IPA - American,6.0,50.0,3.72,222
+34,Citra Pale Ale,Pale Ale - American,5.5,,3.64,110
+34,Pale Ale,Pale Ale - American,5.5,25.0,3.6,152
+34,CMW Kolsch,Kölsch,5.0,,3.59,65
+34,American Lager,Lager - American,5.2,,3.57,97
+35,Batkeeper,Stout - American,9.5,,4.13,143
+35,F&A Hazy IPA,IPA - New England,7.24,,4.05,38
+35,Bat Wing,Stout - American,9.0,,3.86,431
+35,Old Tactician,Belgian Quadrupel,10.0,20.0,3.84,237
+35,Bearliner - Guava,Sour - Fruited Berliner Weisse,4.5,,3.78,330
+36,Barrel Aged Coconut Stout,Stout - American,10.0,20.0,4.22,43
+36,S’mordecai,Stout - Other,7.0,,4.2,15
+36,Barrel Aged Max Stout,Stout - American,6.6,,4.1,49
+36,1 Year Anniversary Stout (Whiskey Barrel Aged),Stout - Other,6.6,,4.02,103
+36,Barleywine (Barrel Aged),Barleywine - American,10.0,,3.99,71
+37,Rum Barrel Aged Imperial Stout,Stout - Other,11.8,,4.24,38
+37,Volumes Of Funk: 2011 OG Funk,American Wild Ale,6.0,,4.22,27
+37,Volumes of Oak Bourbon Barrel Aged Barleywine,Barleywine - American,10.1,,4.2,37
+37,Red River Whiskey Barrel Aged Red,Red Ale - American Amber / Red,,,4.18,15
+37,Concentrated Dark Matter,Stout - Imperial / Double,9.2,55.0,4.17,63
+38,Joshua,Barleywine - English,10.0,,4.21,100
+38,Exodus,American Wild Ale,8.5,,4.13,177
+38,Leviticus,Stout - Coffee,8.0,,4.09,159
+38,Blushing Bride,Belgian Tripel,9.2,,4.06,273
+38,Batch 200,Sour - Other,5.6,,4.06,173
+39,Another Pils,Pilsner - German,4.2,,4.17,78
+39,Kiwi Pils,Pilsner - Other,4.2,40.0,4.16,119
+39,Black Is Beautiful,Lager - Dark,5.8,,4.15,135
+39,Aurum Pils,Pilsner - German,4.5,36.0,4.14,88
+39,The Other Pils,Pilsner - Other,4.5,40.0,4.1,49
+40,Acid Western,Sour - Fruited,6.5,,4.28,125
+40,Parsec (Batch #2),Farmhouse Ale - Saison,5.5,,4.25,12
+40,Vermillionaire,Sour - Fruited,6.6,,4.24,225
+40,Parsec,Farmhouse Ale - Saison,6.4,,4.2,68
+40,Intonation BA Saison,Farmhouse Ale - Saison,6.8,,4.2,39
+41,"It’s Probably Awesome... 10 (El Dorado, Citra, Citra Cryo, Mosaic Cryo and Vic Secret)",IPA - New England,6.7,,4.29,69
+41,✌ & Hoppiness,IPA - Imperial / Double New England,8.1,,4.27,118
+41,Sneaky-Hazy TGIF,IPA - American,7.0,,4.25,24
+41,Summer School,IPA - Imperial / Double New England,8.0,,4.23,68
+41,"It’s Probably Awesome ... 8 (Strata, Idaho 7 & Equanot)",IPA - American,6.7,,4.2,38
+42,Excuse To Let Loose,IPA - Imperial / Double New England,8.5,,4.33,125
+42,Bourbon Barrel Aged Coffee Milk Stout,Stout - Imperial / Double,5.9,,4.27,34
+42,Viking Candy (Batch #2),IPA - New England,6.5,,4.27,28
+42,Late-Night Lookout,IPA - Imperial / Double New England,8.2,,4.26,138
+42,Black Is Beautiful,Stout - Imperial / Double Coffee,9.0,,4.2,71
+43,Piper Down,Scotch Ale / Wee Heavy,10.5,32.0,3.96,12
+43,Bettie,Belgian Dubbel,8.14,20.0,3.92,135
+43,Slam Dunkel,Dunkelweizen,,,3.9,12
+43,The Frenchie,Bière de Champagne / Bière Brut,7.4,,3.87,19
+43,Helles On Wheels,Lager - Helles,5.3,20.0,3.86,53
+44,Casca Siris,American Wild Ale,8.8,34.0,4.3,10
+44,Hans Trapp,Stout - Imperial / Double,10.2,49.0,4.19,63
+44,Mrs. Trapp,Stout - Imperial / Double,10.2,49.0,4.13,19
+44,Rat King,IPA - Imperial / Double,9.1,96.0,4.07,129
+44,Megs' Willy Nilly,Other,4.8,24.0,4.0,37
+45,Juniper IPA,IPA - Farmhouse,6.5,,3.87,38
+45,Amber Ale,Red Ale - American Amber / Red,5.0,,3.8,70
+45,Peach Berliner Weiss,Sour - Fruited Berliner Weisse,3.6,,3.8,33
+45,Fresh Fig IPA,IPA - Farmhouse,5.6,,3.77,34
+45,Hazy Shade of Winter,Pale Ale - New England,6.1,,3.77,51
+46,Kick Out the Yams,Pumpkin / Yam Beer,6.6,,4.08,98
+46,Barrel Aged Winter Warmer,Winter Warmer,7.2,45.0,3.95,17
+46,Jittery Mule,Dunkelweizen,5.0,,3.91,29
+46,Barrel-Aged Farm Stuff,Farmhouse Ale - Saison,6.3,32.0,3.89,11
+46,Wombat,Winter Warmer,7.5,43.0,3.84,33
+47,Sally Skull,Lager - IPL (India Pale Lager),7.0,80.0,4.11,37
+47,"Crane Kick ""To The Face"" - PB&J Stout (NITRO)",Stout - American,8.0,,3.98,30
+47,Sweep the Leg (The Elvis) Peanut Butter And Banana Stout,Stout - Other,,,3.87,54
+47,Invader Coffee Stout,Stout - Coffee,8.0,35.0,3.86,138
+47,Super Turtle Stout,Stout - Other,8.0,,3.84,11
+48,Atrial Rubicite (Blend 10),American Wild Ale,6.9,,4.68,673
+48,Sherry Barrel Atrial Rubicite,American Wild Ale,7.0,7.0,4.67,1200
+48,SPON Blueberry & Pitaya (2019),Lambic - Fruit,5.7,,4.53,15
+48,Montmorency Vs. Balaton (Blend 7),American Wild Ale,6.1,,4.5,160
+48,Atrial Rubicite,American Wild Ale,5.8,,4.5,9473
+49,Whiskey Barrel Aged Imperial Milk Stout,Stout - Imperial / Double Milk,9.0,30.0,4.21,12
+49,Whiskey Barrel Aged Oatmeal Stout,Stout - Oatmeal,7.0,32.0,4.11,47
+49,Whiskey Barrel Aged Double IPA,IPA - Imperial / Double,10.0,9.0,4.1,70
+49,Barrel Aged Historic Strong Ale,Strong Ale - American,9.0,25.0,4.05,58
+49,Whiskey Barrel-Aged Imperial Stout,Stout - Imperial / Double,10.0,64.0,4.05,120
+50,Lake Monster,Scotch Ale / Wee Heavy,10.0,27.0,4.06,12
+50,Basement Dance Party PAle Ale,Pale Ale - American,5.0,40.0,4.05,25
+50,Yankee Stank Hazy IPA,IPA - New England,7.2,55.0,4.03,46
+50,Tropical Viking Hazy IPA,IPA - American,6.5,40.0,4.01,30
+50,Mega Modern Double IPA,IPA - Imperial / Double,8.7,100.0,3.99,2041
+51,Panzer IPA,IPA - American,,,3.59,16
+51,Fat Bottom Blonde,Blonde Ale,,,3.43,10
+51,Route Irish Red,Red Ale - Irish,,,,4
+51,Hill Country Hefeweizen,Hefeweizen,,,,8
+51,All American Pilsner,Porter - American,,,,3
+52,Cuppa’ Suds,Blonde Ale,,,3.96,48
+52,Monkey Peelz,Pilsner - Other,4.6,35.0,3.86,14
+52,Hefeweizen Suds Monkey,Hefeweizen,4.6,,3.84,46
+52,Funky Monkey Mosaic And Citra IPA,IPA - American,7.9,54.0,3.79,20
+52,Funky Monkey IPA,IPA - American,7.7,54.0,3.75,660
+53,McConauhaze,IPA - New England,6.5,15.0,3.89,846
+53,Haze Two,IPA - New England,6.5,18.0,3.76,30
+53,BA Tripel,Belgian Tripel,9.0,15.0,3.75,24
+53,Lupulomancer,IPA - Imperial / Double,8.5,60.0,3.74,223
+53,Pinfall,Pilsner - German,5.5,22.0,3.7,14
+54,Desert Skies,Pilsner - Other,7.5,,4.21,21
+54,Le Saison Barrel Aged With Peaches And Cherries,Farmhouse Ale - Saison,,,4.21,21
+54,Rosanna (Blend),Brett Beer,6.5,18.0,4.13,17
+54,Apricot Sakura,Lambic - Fruit,6.3,,4.12,24
+54,Barrel Aged Middle Trinity,Belgian Tripel,9.6,,4.06,28
