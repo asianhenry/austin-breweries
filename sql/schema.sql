@@ -6,7 +6,12 @@ create table breweries (
 	name varchar(200),
 	street_address varchar(200),
 	zip_code int,
-	austin_area varchar(50)	
+	austin_area varchar(50),
+	untappd_website varchar(255),
+	latitude float,
+	longitude float,
+	avg_beer_rating float,
+	total_rating_count int	
 );
 
 create table beers (
@@ -21,4 +26,3 @@ create table beers (
 	rating_count int
 );
 
-select * from beers;
